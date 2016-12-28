@@ -1,0 +1,1 @@
+start "" C:\nw\nw.exe %cd%

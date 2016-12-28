@@ -1,0 +1,15 @@
+{
+  "name": "allen-wtoxrre2nt",
+  "version": "1.0.0",
+  "description": "A bittorrent client for education purposes!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Kim",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^0.9.0",
+    "int64-buffer": "^0.1.9"
+  }
+}
